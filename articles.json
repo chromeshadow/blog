@@ -43,7 +43,7 @@
             "link": "/author/ivan-ivanov"
         },
         "image": "https://static.tildacdn.com/tild3436-3766-4061-b235-366630346661/1.png",
-        "categories": ["Полезное"],
+        "categories": ["ОГЭ"],
         "link": "/blog/useful/how-much-cost-tutor4",
         "content": "<div class=\"content-block\"><p>Содержимое статьи...</p></div>"
     },
@@ -59,7 +59,7 @@
             "link": "/author/ivan-ivanov"
         },
         "image": "https://static.tildacdn.com/tild3436-3766-4061-b235-366630346661/1.png",
-        "categories": ["Полезное"],
+        "categories": ["Новости"],
         "link": "/blog/useful/how-much-cost-tutor3",
         "content": "<div class=\"content-block\"><p>Содержимое статьи...</p></div>"
     },
@@ -75,7 +75,7 @@
             "link": "/author/ivan-ivanov"
         },
         "image": "https://static.tildacdn.com/tild3436-3766-4061-b235-366630346661/1.png",
-        "categories": ["Полезное"],
+        "categories": ["Советы"],
         "link": "/blog/useful/how-much-cost-tutor2",
         "content": "<div class=\"content-block\"><p>Содержимое статьи...</p></div>"
     },
@@ -97,6 +97,7 @@
     }
 
 ]
+
 
 
 
